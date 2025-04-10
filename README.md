@@ -28,16 +28,12 @@
 
 ## Position Overview
 
-Landlord is well-funded and is looking for extremely talented PHP/Laravel developers to help pioneer software that will make human Property Managers extinct.
+Landlord is well-funded and is looking for extremely talented full stack developers to pioneer a software that is eliminating property inequality. The mega rich feel comfortable owning property because they have dozens of property managers who can manage their property investments for them. Landlord software currently manages thousands of tenants with a built in AI property manager that gives the average property owner the same level of property management support that a billionaire would have. People want to be property owners, not property managers. We ENCOURAGE the use of AI in our technical interview because you'll be using it in your job. 
 
 (<a href="https://claude.ai"><img src="https://img.shields.io/badge/-Try%20Claude-7A56E3?logo=anthropic&logoColor=white" align="center"/></a>, <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/-Try%20DeepSeek-006AFF?logo=deepseek&logoColor=white" align="center"/></a>)
-Expect to work alongside talented, motivated, intense, and interesting co-workers.
+Expect to have intense, driven, interesting co-workers.
 
-We are an equal opportunity employer, this means:
-- We don't care if you didn't go to university
-- We don't care if you have worked as a PHP/Laravel developer before
-- We don't care where you live and work from
-- We don't care if you don't speak amazing English
+We don't care if you didn't go to university, or what languages you've coded in before, or where you live/work from.
 
 **The only thing we care about is that you can produce exceptional code and we will pay you well for doing so.**
 **We encourage you to use AI tools during your job and during the technical test below.**
