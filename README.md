@@ -1,8 +1,8 @@
-# DeepRent Developer Technical Assessment
+# Landlord Developer Technical Assessment
 
-<p align="center"><a href="https://deeprent.ai" target="_blank"><img src="https://deeprent.ai/wp-content/uploads/elementor/thumbs/cropped-cropped-DeepRent-Main-Logo-qozl2gl1om1seeuc24tj7qktf2lbegg2tmpje6wqj4.webp" width="400" alt="DeepRent Logo"></a></p>
+<p align="center"><a href="https://uselandlord.com" target="_blank"><img src="https://uselandlord.com/wp-content/uploads/2025/04/landlordlogo.png" width="400" alt="Landlord Logo"></a></p>
 
-- [DeepRent Developer Technical Assessment](#deeprent-developer-technical-assessment)
+- [Landlord Developer Technical Assessment](#landlord-developer-technical-assessment)
    * [Position Overview](#position-overview)
    * [Application Process](#application-process)
       + [Environment Setup](#environment-setup)
@@ -28,7 +28,7 @@
 
 ## Position Overview
 
-DeepRent is well-funded and is looking for extremely talented PHP/Laravel developers to help pioneer software that will make human Property Managers extinct.
+Landlord is well-funded and is looking for extremely talented PHP/Laravel developers to help pioneer software that will make human Property Managers extinct.
 
 (<a href="https://claude.ai"><img src="https://img.shields.io/badge/-Try%20Claude-7A56E3?logo=anthropic&logoColor=white" align="center"/></a>, <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/-Try%20DeepSeek-006AFF?logo=deepseek&logoColor=white" align="center"/></a>)
 Expect to work alongside talented, motivated, intense, and interesting co-workers.
@@ -70,12 +70,12 @@ If you have issues installing, we highly recommend consulting:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/RedH11/show-your-skills-deeprent.git
+git clone https://github.com/RedH11/show-your-skills-landlord.git
 ```
 
 2. Navigate to the project directory
 ```bash
-cd show-your-skills-deeprent
+cd show-your-skills-landlord
 ```
 
 3. Start Docker containers
