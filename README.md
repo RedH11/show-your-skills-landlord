@@ -28,7 +28,7 @@
 
 ## Position Overview
 
-Landlord is well-funded and is looking for extremely talented full stack developers to pioneer a software that is eliminating property inequality. The mega rich feel comfortable owning property because they have dozens of property managers who can manage their property investments for them. Landlord software currently manages thousands of tenants with a built in AI property manager that gives the average property owner the same level of property management support that a billionaire would have. People want to be property owners, not property managers. We ENCOURAGE the use of AI in our technical interview because you'll be using it in your job. 
+Landlord is a well-funded startup and is looking for extremely talented full stack developers to pioneer a property software that can autonomously manage millions of tenants. Landlord software currently manages thousands of tenants with a built-in AI property manager that gives the average property owner the same level of property management support that a billionaire would have. We ENCOURAGE the use of AI in our technical interview because we expect you to use it in your job.
 
 (<a href="https://claude.ai"><img src="https://img.shields.io/badge/-Try%20Claude-7A56E3?logo=anthropic&logoColor=white" align="center"/></a>, <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/-Try%20DeepSeek-006AFF?logo=deepseek&logoColor=white" align="center"/></a>)
 Expect to have intense, driven, interesting co-workers.
